@@ -203,6 +203,8 @@ Object.keys(funFacts).forEach(fact => {
 ```
 Thanks for visiting my profile! 
 Happy coding! 🚀✨
+
+<!-- Profile last updated: 2024-08-20 -->
 ```
 
 <img src="https://komarev.com/ghpvc/?username=sayiramin&label=Profile%20views&color=0e75b6&style=flat" alt="sayiramin" />
