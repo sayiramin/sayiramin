@@ -19,7 +19,7 @@ Full Stack Developer passionate about building scalable applications and explori
 - 🔭 Working on enterprise API systems
 - 🌱 Learning advanced system design patterns
 - 💬 Ask me about microservices architecture
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+- 📫 Reach me at: [sayir.amin@gmail.com](mailto:sayir.amin@gmail.com)
 
 ---
 
